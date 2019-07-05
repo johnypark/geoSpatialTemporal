@@ -10,3 +10,8 @@ https://www.nasa.gov/feature/goddard/2019/return-of-gedi-s-first-data-shows-fore
 warpping up the starts project https://www.r-spatial.org/r/2019/03/30/stars4.html
 geocomputation with R https://geocompr.robinlovelace.net/
 R stars package https://github.com/r-spatial/stars
+
+
+## Temperature Analysis 
+### Repo for introducing temperature analysis 
+https://github.com/johnypark/Class_Analysis_Temperature
