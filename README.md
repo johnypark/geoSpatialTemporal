@@ -46,3 +46,7 @@ https://github.com/johnypark/Class_Analysis_Temperature
 ### Data - Home price 
 #### Repo on the topic of getting grasp on home price change.
 https://github.com/johnypark/HomeValueAnalysis
+
+
+### Tutorials 
+https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html
