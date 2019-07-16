@@ -13,6 +13,9 @@ https://www.nasa.gov/feature/goddard/2019/return-of-gedi-s-first-data-shows-fore
 https://rstudio-pubs-static.s3.amazonaws.com/230154_30a0bbf22e2a49ecbfa1b72b2c7a8f96.html
 - Web-based UI for opening and viewing raw point cloud http://plas.io/
 
+#### GDAL configuration
+- Setting GDAL_DATA http://clhenrick.github.io/thesis-blog/procrastination/portfolio-work/2014/09/27/procrastinating/
+- build on Linux https://trac.osgeo.org/gdal/wiki/BuildingOnUnix
 
 ### Analysis - R
 #### R stars, Edzer Pebesma et al. 2019.
