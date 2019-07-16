@@ -16,6 +16,7 @@ https://rstudio-pubs-static.s3.amazonaws.com/230154_30a0bbf22e2a49ecbfa1b72b2c7a
 #### GDAL configuration
 - Setting GDAL_DATA http://clhenrick.github.io/thesis-blog/procrastination/portfolio-work/2014/09/27/procrastinating/
 - build on Linux https://trac.osgeo.org/gdal/wiki/BuildingOnUnix
+- Setting PATH and SYSTEM variables in R: https://cran.r-project.org/web/packages/openSTARS/vignettes/Warnings_and_Errors.html
 
 ### Analysis - R
 #### R stars, Edzer Pebesma et al. 2019.
