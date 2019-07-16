@@ -24,6 +24,9 @@ https://rstudio-pubs-static.s3.amazonaws.com/230154_30a0bbf22e2a49ecbfa1b72b2c7a
 - geocomputation with R https://geocompr.robinlovelace.net/
 - R stars package https://github.com/r-spatial/stars
 
+#### R package sf
+- note on using sf http://pierreroudier.github.io/teaching/20170626-Pedometrics/20170626-soil-data.html
+
 #### GDAL cube, open source c++ library and R package, by  Marius Appel and Edzer Pebesma, 2019.
 - https://www.mdpi.com/2306-5729/4/3/92
 - gdalcubes repo https://github.com/appelmar/gdalcubes
