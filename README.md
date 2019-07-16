@@ -3,7 +3,7 @@ Collection of all useful sources about geospatial analysis in space and time.
 
 ### Book sources 
 - Spatial Data Science, by Edzer Pebesma, Roger Bivand, developers of R sf package. https://keen-swartz-3146c4.netlify.com/
-
+- rnatural earth https://cran.r-project.org/web/packages/rnaturalearth/vignettes/rnaturalearth.html
 ### Modern intruments - sensors
 #### NASA GEDI - 3D vertical density, waveform LiDAR 
 https://www.nasa.gov/feature/goddard/2019/return-of-gedi-s-first-data-shows-forests-topography
