@@ -49,5 +49,5 @@ https://github.com/johnypark/Class_Analysis_Temperature
 https://github.com/johnypark/HomeValueAnalysis
 
 
-### Tutorials 
+### Tutorials. 
 https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html
